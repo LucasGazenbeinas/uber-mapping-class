@@ -1,0 +1,11 @@
+C:\Estudo\Estrutura Uber\Estrutura Uber\Estrutura Uber\bin\Debug\netcoreapp2.0\Estrutura Uber.deps.json
+C:\Estudo\Estrutura Uber\Estrutura Uber\Estrutura Uber\bin\Debug\netcoreapp2.0\Estrutura Uber.runtimeconfig.json
+C:\Estudo\Estrutura Uber\Estrutura Uber\Estrutura Uber\bin\Debug\netcoreapp2.0\Estrutura Uber.runtimeconfig.dev.json
+C:\Estudo\Estrutura Uber\Estrutura Uber\Estrutura Uber\bin\Debug\netcoreapp2.0\Estrutura Uber.dll
+C:\Estudo\Estrutura Uber\Estrutura Uber\Estrutura Uber\bin\Debug\netcoreapp2.0\Estrutura Uber.pdb
+C:\Estudo\Estrutura Uber\Estrutura Uber\Estrutura Uber\obj\Debug\netcoreapp2.0\Estrutura Uber.csproj.CoreCompileInputs.cache
+C:\Estudo\Estrutura Uber\Estrutura Uber\Estrutura Uber\obj\Debug\netcoreapp2.0\Estrutura Uber.AssemblyInfoInputs.cache
+C:\Estudo\Estrutura Uber\Estrutura Uber\Estrutura Uber\obj\Debug\netcoreapp2.0\Estrutura Uber.AssemblyInfo.cs
+C:\Estudo\Estrutura Uber\Estrutura Uber\Estrutura Uber\obj\Debug\netcoreapp2.0\Estrutura Uber.dll
+C:\Estudo\Estrutura Uber\Estrutura Uber\Estrutura Uber\obj\Debug\netcoreapp2.0\Estrutura Uber.pdb
+C:\Estudo\Estrutura Uber\Estrutura Uber\Estrutura Uber\obj\Debug\netcoreapp2.0\Estrutura Uber.csprojAssemblyReference.cache
